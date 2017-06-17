@@ -1,0 +1,30 @@
+baseurl = "https://cgraffeo.com"
+title = "Chris Graffeo"
+theme = "dimension"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+enableRobotsTXT = true
+disableRSS = true
+
+[params]
+  title = "Chris Graffeo"
+  description = '<!--[-->Highly adaptive, efficient, strongly motivated and versatile professional with 6+ years of experience<!--]--><br />
+                <!--[-->in both collaborative and autonomous environments.<!--]-->'
+  logo = "fa-cube"
+  copyright = "Untitled"
+
+[[params.social]]
+  medium = "linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/cgraffeo/"
+
+[[params.social]]
+  medium = "github"
+  icon = "github"
+  link = "https://github.com/cgraffeo"
+
+[languages]
+[languages.en]
+languageName = "English"
+weight = 1
+title = "Wildland enthusiast turned web developer."
